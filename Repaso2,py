@@ -1,0 +1,20 @@
+lista_perros=[]
+lista_gatos[]
+
+while True: 
+    pregunta=int(input("""
+    
+    1. registrat perritos 
+    2. registrar gatitos
+    3. listado de perritos 
+    4. listado de gatitos
+    5. salir 
+    
+    """))
+
+if pregunta ==1:
+        cantidad=int(input("cantidad de perritos a registrar: "))
+        lista_perros.append(cantidad)
+        print("perrito registrado") 
+elif pregunta ==2:
+    gato          

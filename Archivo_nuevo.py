@@ -1,1 +1,1 @@
-print("The teacher Eliana is so lovely");
+print("The teacher Eliana is so funny");
